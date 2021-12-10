@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.practicar">
 
-    //para poder tener internet en el  movil y que se vean las imagenes del glide
+    //para poder tener internet en el  movvvil y que se vean las imagenes del glide
     <uses-permission android:name="android.permission.INTERNET"></uses-permission>
 
     <application
